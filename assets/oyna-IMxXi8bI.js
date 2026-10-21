@@ -1,0 +1,1 @@
+import{a as e,i as t,o as n,t as r}from"./styles-CREZpSFx.js";var i=n(),a=e(),o=t();(0,a.createRoot)(document.getElementById(`root`)).render((0,o.jsx)(i.StrictMode,{children:(0,o.jsx)(r,{})}));
